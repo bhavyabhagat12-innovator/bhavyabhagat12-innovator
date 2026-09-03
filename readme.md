@@ -1,5 +1,3 @@
-Here it is — the **raw Markdown**, nothing rendered. Copy **everything between the four backticks** at the top and bottom:
-
 ````markdown
 <!-- ═══════════════════════════════════════════════ -->
 <!--  ✦  Y O U R  N A M E  ✦  profile card  ✦        -->
