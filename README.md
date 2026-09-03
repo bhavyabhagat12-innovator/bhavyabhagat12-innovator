@@ -1,4 +1,3 @@
-````markdown
 <!-- ═══════════════════════════════════════════════ -->
 <!--  ✦  Y O U R  N A M E  ✦  profile card  ✦        -->
 <!-- ═══════════════════════════════════════════════ -->
@@ -94,8 +93,6 @@ Access granted 🕵️
 ⭐️ *from [YOUR_USERNAME](https://github.com/YOUR_USERNAME)*
 
 </div>
-````
-
 That's the entire file — save it as `README.md` in a repo named after your username, then find & replace `YOUR_USERNAME` and `YOUR_NAME`.
 
 If this still renders instead of showing raw text on your screen, tell me what device/app you're viewing this in and I'll adapt.
