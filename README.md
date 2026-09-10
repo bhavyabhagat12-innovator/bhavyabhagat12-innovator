@@ -1,130 +1,85 @@
-# Hi, I'm Bhavya 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Bhavya+Bhagat%21%21%21+%F0%9F%91%8B%F0%9F%98%8A" alt="Typing SVG" />
+</h1>
 
-## About Me
+# 💫 About Me:
+Hi there 👋<br>
+I'm an AI & Data Science student 🤖📊<br>
+Currently learning Python and exploring real-world projects 💻<br>
+Interested in building smart solutions and improving my skills every day 🚀
 
-I'm a passionate Computer Engineering student interested in
-Web Development, Artificial Intelligence, and Machine Learning.
-
-I enjoy building projects, learning new technologies, and improving
-my programming and problem-solving skills.
-
-- 🎓 Computer Engineering Student
-- 💻 Interested in Web Development & AI/ML
-- 🌱 Currently learning C++, Python, and Web Technologies
-- 🚀 Interested in building real-world projects
-- 📚 Always learning and exploring new technologies
+> 📌 *"Action speaks louder than words"*
 
 ---
 
-## Tech Stack
+## 🚀 What I'm Working On
 
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
-</p>
-
-### Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Learning and applying Data Science concepts
+- 💻 Practicing C++, Python & Data Structures
+- 🌐 Building web-based projects
+- 🛠️ Working on real-world problem-solving projects
+- 📚 Continuously improving my programming and development skills
 
 ---
 
-## Currently Learning
+## 💡 Currently Learning
 
-- C++
-- Python
-- Data Structures & Algorithms
-- SQL
-- Web Development
-- Artificial Intelligence
-- Machine Learning
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-8A2BE2?style=for-the-badge) ![ML](https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge) ![DataScience](https://img.shields.io/badge/-Data%20Science-1E90FF?style=for-the-badge) ![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-2E8B57?style=for-the-badge) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![WebDev](https://img.shields.io/badge/-Web%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## Areas of Interest
+## 📌 Featured Projects
 
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Development
-- Problem Solving
+### 🏘️ Rural Infrastructure Monitoring System
+A web-based platform for monitoring and reporting rural infrastructure issues, with features for reports, notices, gallery, contact, registration and login.
+**Tech:** HTML, CSS, PHP, MySQL
 
----
 
-## Projects
-
-### 🌱 EcoVerde
-
-An eco-friendly product platform focused on promoting sustainable products.
-
-**Technologies:** HTML, CSS, JavaScript
 
 ---
 
-### 🌾 Rural Infrastructure Monitoring System
+## 💻 Tech Stack
 
-A web-based system designed to monitor and manage rural infrastructure
-information.
-
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, XAMPP
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 🤖 AI-Based Projects
+## 🛠️ Languages & Tools
 
-Currently exploring and building projects using Artificial Intelligence
-and Machine Learning to solve real-world problems.
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyab12/)
 
-## Connect With Me
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
----
+## 📊 GitHub Stats
 
-## Profile Visitors
+![](https://github-readme-stats.shion.dev/api?username=DIVYAbhagat17&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DIVYAbhagat17&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DIVYAbhagat17&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DIVYAbhagat17&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
-⭐ Thanks for visiting my profile!
+## 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake.svg" />
+</picture>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
