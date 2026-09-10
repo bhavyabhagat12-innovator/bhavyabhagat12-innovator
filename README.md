@@ -65,21 +65,12 @@ A web-based platform for monitoring and reporting rural infrastructure issues, w
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=DIVYAbhagat17&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=DIVYAbhagat17&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DIVYAbhagat17&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=bhavyabhagat12-innovator&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=bhavyabhagat12-innovator&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavyabhagat12-innovator&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DIVYAbhagat17&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bhavyabhagat12-innovator&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-## 🐍 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bhavyabhagat12-innovator/bhavyabhagat12-innovator/output/github-snake.svg" />
-</picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
